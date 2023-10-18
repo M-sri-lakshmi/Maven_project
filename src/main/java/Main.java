@@ -75,7 +75,7 @@ class NotAvailable extends Exception
     @Override
     public String toString()
     {
-        return "un available !";
+        return "Not available !";
     }
 }
 
